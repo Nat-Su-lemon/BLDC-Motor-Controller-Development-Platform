@@ -29,7 +29,7 @@ Top-level block diagram of the controller: the STM32G4 host, DRV8323 gate driver
 
 ## Schematics
 
-**Microcontroller.** STM32G4 host with its motor-control peripherals, configuration, and test-point access.
+**Microcontroller.** STM32G4 with its motor-control peripherals and configuration
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nat-Su-lemon/BLDC-Motor-Controller-Development-Platform/main/assets/stm32.png" width="80%">
